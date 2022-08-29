@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am currently studing Software Engineering at SDU and working part time at Bunker Holding Group IT
-- 🌱 I’m currently sharpening my .Net skills and learning more about distributed systems.
+I am currently studying Software Engineering at the University of Southern Denmark and working part time at Bunker Holding Group IT
 <!--
 **mnhnielsen/mnhnielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
