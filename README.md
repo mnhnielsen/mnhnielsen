@@ -1,7 +1,8 @@
 ### Hi there 👋
-I am currently studying Software Engineering at the University of Southern Denmark and working part time at Bunker Holding Group IT
+I am currently studying Software Engineering at the University of Southern Denmark<!-- and working part time at Bunker Holding Group IT
+
 - 🌱 I’m currently sharpening my skills in .Net
-<!--
+
 **mnhnielsen/mnhnielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
