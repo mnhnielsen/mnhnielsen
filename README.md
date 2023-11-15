@@ -1,4 +1,4 @@
-Software Engineering student at the University of Southern Denmark & Student Dev @ Bunker Holding
+Software Engineering at the University of Southern Denmark & IT Guy @ Bunker Holding
 <!--
 - 🌱 I’m currently sharpening my skills in .Net
 
