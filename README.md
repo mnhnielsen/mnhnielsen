@@ -1,4 +1,4 @@
-Software Engineering at the University of Southern Denmark & IT Guy @ Bunker Holding
+Software Engineer from the University of Southern Denmark, currently developing solutions at Bunker Holding. Passionate about distributed systems, architecture, and the synergy between energy and financial systems.
 <!--
 - 🌱 I’m currently sharpening my skills in .Net
 
