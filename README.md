@@ -1,4 +1,5 @@
-Software Engineer from the University of Southern Denmark, currently developing solutions at Bunker Holding. Passionate about distributed systems, architecture, and the synergy between energy and financial systems.
+Software Engineer from the University of Southern Denmark, currently developing solutions at Bizzkit. Most contributions are private.
+Passionate about distributed systems architecture.
 <!--
 - 🌱 I’m currently sharpening my skills in .Net
 
